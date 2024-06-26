@@ -1,0 +1,8 @@
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:50:1:searchArrayInArray	32	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:84:1:hex2Char	24	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:102:1:String2Uint	40	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:143:1:memsetl	16	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:160:1:memcpyl	24	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:177:1:valInRange	24	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:185:10:dwCalculatorTime	16	static
+C:/Users/HoangNH/Desktop/SmartTech/bts-sim7600/BTS_Station/Utilities/utilities.c:196:6:delay_ms	24	static

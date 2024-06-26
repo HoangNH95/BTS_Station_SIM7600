@@ -1,0 +1,8 @@
+../Middle/mq135.c:27:6:MQ135_Init	16	static
+../Middle/mq135.c:43:7:MQ135_GetCorrectionFactor	24	static
+../Middle/mq135.c:64:7:MQ135_GetResistance	24	static
+../Middle/mq135.c:80:7:MQ135_GetCorrectedResistance	24	static
+../Middle/mq135.c:91:7:MQ135_GetPPM	8	static
+../Middle/mq135.c:106:7:MQ135_GetCorrectedPPM	16	static
+../Middle/mq135.c:117:7:MQ135_GetRZero	8	static
+../Middle/mq135.c:132:7:MQ135_GetCorrectedRZero	16	static

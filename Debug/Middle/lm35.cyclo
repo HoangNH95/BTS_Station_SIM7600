@@ -1,0 +1,4 @@
+../Middle/lm35.c:40:6:LM35_Init	2
+../Middle/lm35.c:46:7:LM35_GetTempCel	3
+../Middle/lm35.c:57:7:LM35_GetTempFah	1
+../Middle/lm35.c:63:7:LM35_GetTempKel	1

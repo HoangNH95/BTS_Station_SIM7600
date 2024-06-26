@@ -1,0 +1,5 @@
+../Middle/eventSerialCb.c:48:7:rs232_GetTempDht22	4	static
+../Middle/eventSerialCb.c:52:13:rs232TimeoutConnectionTimerCb	16	static
+../Middle/eventSerialCb.c:56:13:eventSerial_rs232ReceiverCallback	32	static
+../Middle/eventSerialCb.c:80:6:eventSerial_init	8	static
+../Middle/eventSerialCb.c:84:6:processSerialReceiver	8	static

@@ -1,0 +1,2 @@
+../Middle/door_sensor.c:40:6:door_set_status	16	static
+../Middle/door_sensor.c:44:15:door_get_status	4	static

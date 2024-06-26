@@ -1,0 +1,3 @@
+../Middle/irctrl.c:40:6:IRCtrl_Init	1
+../Middle/irctrl.c:44:6:IRCtrl_SetState	1
+../Middle/irctrl.c:48:9:IRCtrl_GetState	1

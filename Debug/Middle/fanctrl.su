@@ -1,0 +1,3 @@
+../Middle/fanctrl.c:40:6:FanCtrl_Init	4	static
+../Middle/fanctrl.c:44:6:FanCtrl_SetLevel	16	static
+../Middle/fanctrl.c:56:9:FanCtrl_GetLevel	4	static

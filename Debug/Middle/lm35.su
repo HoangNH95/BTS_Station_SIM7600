@@ -1,0 +1,4 @@
+../Middle/lm35.c:40:6:LM35_Init	16	static
+../Middle/lm35.c:46:7:LM35_GetTempCel	24	static
+../Middle/lm35.c:57:7:LM35_GetTempFah	24	static
+../Middle/lm35.c:63:7:LM35_GetTempKel	24	static

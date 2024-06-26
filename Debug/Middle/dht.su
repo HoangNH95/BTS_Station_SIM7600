@@ -1,0 +1,10 @@
+../Middle/dht.c:19:13:DHT_DelayInit	16	static
+../Middle/dht.c:24:13:DHT_DelayUs	16	static
+../Middle/dht.c:30:13:DHT_SetPinOut	40	static
+../Middle/dht.c:40:13:DHT_SetPinIn	40	static
+../Middle/dht.c:50:13:DHT_WritePin	16	static
+../Middle/dht.c:55:16:DHT_ReadPin	24	static
+../Middle/dht.c:61:16:DHT_Start	24	static
+../Middle/dht.c:93:16:DHT_Read	32	static
+../Middle/dht.c:129:6:DHT_Init	24	static
+../Middle/dht.c:144:12:DHT_ReadTempHum	32	static
